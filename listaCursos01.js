@@ -26,10 +26,10 @@ let mostarCurso = (curso, tiempo) => {
 }
 
 
-module.exports = {
-	cursos,
-	mostarCurso
-};
+
+mostarCurso(cursos[0], 2000);
+mostarCurso(cursos[1], 4000);
+mostarCurso(cursos[2], 6000);
 
 
 
