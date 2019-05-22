@@ -1,0 +1,14 @@
+{
+  "name": "entrega_01",
+  "version": "1.0.0",
+  "description": "Primer entrega",
+  "main": "inscripcionCurso.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edisson edissonvelandia7@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
